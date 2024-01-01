@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Shamik
-
+## ✨ Hi, I'm Shamik!
  <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
