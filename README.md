@@ -30,7 +30,7 @@ Computer science undergrad at IIIT-Delhi, passionate about design.
 
 
 ## 
-![](https://github-readme-stats.vercel.app/api?username=theshamiksinha&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=theshamiksinha&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Shamik's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshamiksinha&theme=tokyonight&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theshamiksinha&theme=tokyonight&hide_border=true)<br/>
