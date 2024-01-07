@@ -1,6 +1,10 @@
-## ✨ Hi, I'm Shamik!
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
 
-Computer science undergrad at IIIT-Delhi, passionate about design.
+<h1 align="center">Hi 👋, I'm Shamik Sinha</h1>
+
+<h3 align="center">Computer science undergrad at IIIT-Delhi, passionate about design. </h3>
 
 
 ## Languages and Tools
@@ -30,9 +34,22 @@ Computer science undergrad at IIIT-Delhi, passionate about design.
 
 
 ## 
-![](https://github-readme-stats.vercel.app/api?username=theshamiksinha&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
-![Shamik's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshamiksinha&theme=tokyonight&layout=compact&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=theshamiksinha&theme=tokyonight&hide_border=true)<br/>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=theshamiksinha&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshamiksinha&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" />
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshamiksinha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </div>
+
+</div>
 
 
