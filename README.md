@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shamik Sinha</h1>
 
-<h3 align="center">Computer science undergrad at IIIT-Delhi, passionate about design. </h3>
+<h3 align="center">Computer science undergrad at IIIT-Delhi. </h3>
 
 
 ## Languages and Tools
