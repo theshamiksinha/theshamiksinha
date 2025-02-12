@@ -13,9 +13,9 @@
 
 I specialize in machine learning, deep learning, NLP, and human-centred AI, with a strong interest in cognitive sciences. I have experience in algorithm design, particularly graph theory and dynamic programming. I have also worked on backend development for some of my projects. 
 
-I specialize in machine learning, deep learning, NLP, and human-centred AI, with a strong interest in cognitive sciences. I have experience in algorithm design, particularly in graph theory and dynamic programming, with considerable interest in competitive programming. Additionally, I have worked on backend development for some of my projects.
-
 I also develop AR/VR applications and have a solid background in human-centred design.
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
