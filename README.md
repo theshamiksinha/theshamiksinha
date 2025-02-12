@@ -4,7 +4,7 @@
 
 # 🚀 Welcome to My GitHub!
 
-<h1 align="center">Hey there, I'm Shamik Sinha! 👋</h1>
+<h1 align="center">Hey there, I'm Shamik!</h1>
 <h3 align="center">Computer Science Undergraduate @ IIIT-Delhi </h3>
 
 ---
