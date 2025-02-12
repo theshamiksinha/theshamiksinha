@@ -21,7 +21,7 @@ I also develop AR/VR applications and have a solid background in human-centred d
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,bash,git,github,mysql,latex,figma,ai,ps,tensorflow,pytorch,unity" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,CSS,bootstrap,reactnative,bash,git,github,mysql,latex,figma,ai,ps,tensorflow,pytorch,unity" alt="Tech Stack" />
 </div>
 
 ---
