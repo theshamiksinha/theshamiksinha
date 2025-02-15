@@ -1,9 +1,7 @@
 <div align="center">
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
-
-# 🚀 Welcome to My GitHub!
-
+ 
 <h1 align="center">Hey there, I'm Shamik!</h1>
 <h3 align="center">Computer Science Undergraduate @ IIIT-Delhi </h3>
 
