@@ -6,16 +6,6 @@
 <h3 align="center">Computer Science Undergraduate @ IIIT-Delhi </h3>
 
 ---
-
-## 🧠 Technical Interests
-
-I specialize in machine learning, deep learning, NLP, and human-centred AI, with a strong interest in cognitive sciences. I have experience in algorithm design, particularly graph theory and dynamic programming. I have also worked on backend development for some of my projects. 
-
-I also develop AR/VR applications and have a solid background in human-centred design.
-
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -33,26 +23,6 @@ I also develop AR/VR applications and have a solid background in human-centred d
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshamiksinha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🔬 Research & Projects
-
-- 🏆 **Fine-tuning LLMs for NLP tasks**: Custom embeddings, transformer-based models, RLHF
-- 📊 **AI-driven Cognitive Systems**: Behavioral modeling, real-time user adaptation
-- 🛠 **Optimizing ML Pipelines**: Data preprocessing, distributed training, deployment strategies
-- 🔗 **Graph Neural Networks in AI**: Applications in recommendation systems, biological networks
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/theshamiksinha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/theshamiksinha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://theshamiksinha.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 🎉 Thanks for stopping by! Keep innovating! 🚀
