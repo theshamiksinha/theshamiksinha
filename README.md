@@ -1,1 +1,1 @@
-![Alt Text](https://your-image-url.com/image.png)
+![Alt Text](logo.png)
