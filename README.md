@@ -11,3 +11,7 @@
     </td>
   </tr>
 </table>
+
+<p style="font-size: 0.9em; color: #555;">
+Tools & Tech: Python &amp; scikit-learn, PyTorch &amp; Hugging Face, C++, Java, Unity &amp; C#, Django, React &amp; Node.js, JavaScript.
+</p>
