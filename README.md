@@ -10,6 +10,9 @@
           Hi, I'm Shamik. I rarely use a debugger—my code speaks for itself (and when it doesn't, I just add a few print statements).
         </p>
       </div>
+      <br><br>
+      <br><br>
+      <br><br>
       <div>
         <p style="font-size: 0.85em; color: #555; text-align: left; margin-top: 20px;">
           Interests:
