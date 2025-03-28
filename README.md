@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="logo.png" alt="My Logo" width="950">
+      <img src="logo.png" alt="My Logo" width="900">
     </td>
     <td valign="top" style="padding-left: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
       <div>
