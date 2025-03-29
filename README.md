@@ -20,7 +20,8 @@
               ▶ Competitive Programming: C++ <br>
               ▶ OOP: Java <br>
               ▶ VR/AR & Game Dev: Unity & C# <br>
-              ▶ Web Dev: Django, React, Node.js, JavaScript
+              ▶ Web Dev: Django, React, Node.js, JavaScript <br>
+              ▶ Design/CAD: Figma, Illustrator, Fusion 360
           </p>
       </div>
     </td>
