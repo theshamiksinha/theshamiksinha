@@ -15,7 +15,7 @@
       <br><br>
       <div>
         <p style="font-size: 0.85em; color: #555; text-align: left; margin-top: 20px;">Interests:</p>
-        <ul style="font-size: 0.85em; color: #555; margin: 0; padding-left: 20px;">
+        <ul style="font-size: 0.85em; color: #555; margin: 0; padding-left: 10px;">
           <li>ML/DL/NLP: Python, scikit-learn, PyTorch, Hugging Face</li>
           <li>Competitive Coding: C++</li>
           <li>OOP: Java</li>
