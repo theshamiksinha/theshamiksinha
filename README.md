@@ -12,7 +12,7 @@
       </div>
       <br><br>
       <br><br>
-      <br><br>
+      <br>
       <div>
           <p style="font-size: 0.85em; color: #555; text-align: left; margin-top: 20px;">Stuff I Do:</p>
           <p style="font-size: 0.85em; color: #555; text-align: left;">
