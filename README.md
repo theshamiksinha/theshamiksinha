@@ -14,14 +14,14 @@
       <br><br>
       <br><br>
       <div>
-        <p style="font-size: 0.85em; color: #555; text-align: left; margin-top: 20px;">Interests:</p>
-        <ul style="font-size: 0.85em; color: #555; margin: 0; padding-left: 10px;">
-          <li>ML/DL/NLP: Python, scikit-learn, PyTorch, Hugging Face</li>
-          <li>Competitive Coding: C++</li>
-          <li>OOP: Java</li>
-          <li>VR/AR &amp; Game Dev: Unity &amp; C#</li>
-          <li>Web Dev: Django, React, Node.js, JavaScript</li>
-        </ul>
+          <p style="font-size: 0.85em; color: #555; text-align: left; margin-top: 20px;">Stuff I Do:</p>
+          <p style="font-size: 0.85em; color: #555; text-align: left;">
+              ▶ ML/DL/NLP: Python, scikit-learn, PyTorch, Hugging Face <br>
+              ▶ Competitive Programming: C++ <br>
+              ▶ OOP: Java <br>
+              ▶ VR/AR & Game Dev: Unity & C# <br>
+              ▶ Web Dev: Django, React, Node.js, JavaScript
+          </p>
       </div>
     </td>
   </tr>
